@@ -1,5 +1,5 @@
 title = "2Paulis HoC"
-baseURL = "https://example.com"
+baseURL = "https://master.d3lj1msktfw1dn.amplifyapp.com/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
@@ -33,3 +33,4 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
+
